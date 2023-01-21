@@ -1,5 +1,5 @@
 # Developer's Profile
-[GitHub](https://github.com/bonang8)(https://github.com/cbonang80
+[GitHub](https://github.com/cbonang80)
 # License 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
