@@ -1,22 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std; 
-/* Question people asked 
-     1. Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)? 
-        It simply seperates the implementation from the interface. As a programmer, you may want to see what the program 
-        does as a whole when reviewing a collegue's code. Simply looking at the functon name and comments provides the 
-        overall architecture of the code. You may want to add additional features (extra function) to the program and not 
-		change the program itself. It's good practice to do this because looking over thousands of lines of code is not ideal. 
-	    Why did I not use that here? In the interest of time and this did not take many lines of code. 
-
-      2. What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it? 
-	     ***Explained in the following section:
-		    In the main() function refer to Regular Class Example: Dot operator VS Pointer
-
-	  3. What does the keyword virtual do? 
-	     ***Explained in the following section: 
-		    Inheritance and Polymorphism example
-			In the main() function refer to Inheritance, Polymorphism, and the delete keyword
+/*
 	Sections Introduced in the function main()
 		1. Regular Class Example: Dot operator VS Pointer
 		2. More Stuff on Using the Dot (.) operator
@@ -145,4 +130,3 @@ int main()
 #endif 
 	return 0; 
 }
-
