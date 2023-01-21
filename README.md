@@ -35,8 +35,7 @@ Question people asked:
       1. Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)? 
          It simply seperates the implementation from the interface. As a programmer, you may want to see what the program 
          does as a whole when reviewing a collegue's code. Simply looking at the functon name and comments provides the 
-         overall architecture of the code. 
-	 You may want to add additional features (extra function) to the program and not change the program itself. 
+         overall architecture of the code. You may want to add additional features (extra function) to the program and not change the program itself. 
 	 It's good practice to do this because looking over thousands of lines of code is not ideal. 
 	 Why did I not use that here? In the interest of time and this did not take many lines of code. 
 
