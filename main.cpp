@@ -69,12 +69,12 @@ int main()
 	/* What's happening below???
 	     1. Wizard * p_wiz: created a pointer to a Wizard class. 
 
-		 2. new Wizard(): Creates a Wizard object. 
+	     2. new Wizard(): Creates a Wizard object. 
 		   'new' allocates memory on the heap (Ah, time to put this on the heap) 
 		    Remember: anything to do with memory allocation goes on the heap!!! 
 
-		 3. Lets put it together: Wizard* p_wiz = new Wizard(); 
-		    A pointer to a Wizard class holds the address of the wizard object on the heap
+	     3. Lets put it together: Wizard* p_wiz = new Wizard(); 
+		    A pointer to the Wizard class object holds the address of the wizard object on the heap
 	*/
 	Wizard* p_wiz = new Wizard(); 
 	p_wiz->name = "merlin"; 
