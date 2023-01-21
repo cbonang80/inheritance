@@ -9,7 +9,7 @@ testing to see if project works
 ## Table of Content
 -------------------
 * [About](#about)
-* [Sections](#section)
+* [Sections In nain()](#section)
 * [License](#license) 
 * [Questiona](#questions)
 * [Tests](#tests)
@@ -21,7 +21,7 @@ polymorphism, and pointers are included in the program. Explainations include me
 allocation and what goes on the stack and heap. 
 
 
-## Sections  
+## Sections In main()  
     1. Regular Class Example: Dot operator VS Pointer
     2. More Stuff on Using the Dot (.) operator
     3. Inheritance, Polymorphism, and the delete keyword
