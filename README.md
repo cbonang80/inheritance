@@ -32,7 +32,7 @@ allocation and what goes on the stack and heap.
 ## Questions  
 Question people asked:
 
-      **1. Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)?**
+      1. Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)?
          It simply seperates the implementation from the interface. As a programmer, you may want to see what the program 
          does as a whole when reviewing a collegue's code. Simply looking at the functon name and comments provides the 
          overall architecture of the code. <br> 
@@ -40,11 +40,11 @@ Question people asked:
 	 It's good practice to do this because looking over thousands of lines of code is not ideal. <br> 
 	 Why did I not use that here? In the interest of time and this did not take many lines of code./ 
 
-      **2. What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it?** 
+      2. What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it?
 	     Explained in the following section:
 		    In the main() function refer to Regular Class Example: Dot operator VS Pointer
 
-	  **3. What does the keyword virtual do?** 
+	  3. What does the keyword virtual do? 
 	     Explained in the following section: 
 		    Inheritance and Polymorphism example
 			In the main() function refer to Inheritance, Polymorphism, and the delete keyword
