@@ -14,7 +14,7 @@
 
 ## About
 The C++ program demonstrates some main tenants of object oriented programming, 
-such as inheritance and polymorphism. There are examples on classes and objects, inheritance,
+such as inheritance, encapsulation, polymorphism. There are examples on classes and objects, inheritance,
 polymorphism, and pointers in the program. Explainations include memory 
 allocation and deallocation. 
 
