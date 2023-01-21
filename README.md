@@ -32,26 +32,26 @@ allocation and what goes on the stack and heap.
 ## Questions  
 Question people asked:
 
-      1. Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)? 
+      1. **Why should I have my class blueprint in a seperate .h file and a seperate file for my class implementation (.cpp)?**
          It simply seperates the implementation from the interface. As a programmer, you may want to see what the program 
          does as a whole when reviewing a collegue's code. Simply looking at the functon name and comments provides the 
-         overall architecture of the code. 
-	 
-	 a. You may want to add additional features (extra function) to the program and not change the program itself.
-	 It's good practice to do this because looking over thousands of lines of code is not ideal. 
-	 Why did I not use that here? In the interest of time and this did not take many lines of code. 
+         overall architecture of the code. <br/> 
+	 You may want to add additional features (extra function) to the program and not change the program itself.<br/> 
+	 It's good practice to do this because looking over thousands of lines of code is not ideal. <br/> 
+	 Why did I not use that here? In the interest of time and this did not take many lines of code. <br/> 
 
-      2. What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it? 
+      2. **What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it?** 
 	     Explained in the following section:
 		    In the main() function refer to Regular Class Example: Dot operator VS Pointer
 
-	  3. What does the keyword virtual do? 
+	  3. **What does the keyword virtual do?** 
 	     Explained in the following section: 
 		    Inheritance and Polymorphism example
 			In the main() function refer to Inheritance, Polymorphism, and the delete keyword
 
 ## Tests
 To run tests, run the following command: 
+`code`
 g++ main.cpp
 
 ## Contact me
