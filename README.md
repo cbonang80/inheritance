@@ -50,8 +50,8 @@ Question people asked:
 
 ## Tests
 To run tests, run the following command: 
-`code`
-g++ main.cpp
+`g++ main.cpp`
+
 
 ## Contact me
 If you have any questions about the repo, open an issue or contact me directly
