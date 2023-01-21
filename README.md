@@ -15,10 +15,10 @@ testing to see if project works
 * [Tests](#tests)
 
 ## About
-The C++ program demonstrates some main tenants regarding C++'s object oriented programming, 
-such as inheritance and polymorphism. Examples on classes and objects, inheritance,
-polymorphism, and pointers are included in the program. Explainations include memory 
-allocation and what goes on the stack and heap. 
+The C++ program demonstrates some main tenants of object oriented programming, 
+such as inheritance and polymorphism. There are examples on classes and objects, inheritance,
+polymorphism, and pointers in the program. Explainations include memory 
+allocation and deallocation. 
 
 
 ## Sections In main()  
