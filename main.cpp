@@ -14,7 +14,7 @@ class Wizard
 // access specifier: remember, there are 3 access specifiers: public, private, and protected
   public: // allows us to access outside 
 	  Wizard() {}  //Constructor 
-	  Wizard(int hp, int level) { cout << "hp: " << hp << "level: " << level << endl;  }; //Parameterized Constructor 
+	  Wizard(int hp, int level) { cout << "hp: " << hp << " " << "level: " << level << endl;  }; //Parameterized Constructor 
 	  string name;
 };
 //========================================================================================//
