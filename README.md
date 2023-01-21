@@ -11,7 +11,7 @@ testing to see if project works
 * [About](#about)
 * [Sections In main()](#section)
 * [License](#license) 
-* [Questiona](#questions)
+* [Questions](#questions)
 * [Tests](#tests)
 
 ## About
