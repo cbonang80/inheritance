@@ -10,7 +10,7 @@
 * [Sections In main()](#section)
 * [License](#license) 
 * [Questions](#questions)
-* [Tests](#tests)
+* [Build and Run](#tests)
 
 ## About
 The C++ program demonstrates some main tenants of object oriented programming, 
@@ -46,9 +46,11 @@ Question people asked:
 		    Inheritance and Polymorphism example
 			In the main() function refer to Inheritance, Polymorphism, and the delete keyword
 
-## Tests
-To run tests, run the following command: 
+## Build and Run
+Type the following command to build: 
 `g++ main.cpp`
+Type the following command to run: 
+`./a.out`
 
 
 ## Contact me
