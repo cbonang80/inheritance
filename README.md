@@ -9,7 +9,7 @@ testing to see if project works
 ## Table of Content
 -------------------
 * [About](#about)
-* [Sections In nain()](#section)
+* [Sections In main()](#section)
 * [License](#license) 
 * [Questiona](#questions)
 * [Tests](#tests)
