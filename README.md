@@ -23,8 +23,8 @@ allocation and what goes on the stack and heap.
 
 ## Sections  
     1. Regular Class Example: Dot operator VS Pointer
-		2. More Stuff on Using the Dot (.) operator
-		3. Inheritance, Polymorphism, and the delete keyword
+    2. More Stuff on Using the Dot (.) operator
+    3. Inheritance, Polymorphism, and the delete keyword
 
 ## License 
 [GPL v3 License](https://www.gnu.org/licenses/gpl-3.0)
@@ -39,11 +39,11 @@ Question people asked
 	 Why did I not use that here? In the interest of time and this did not take many lines of code. 
 
       2. What exactly does 'new' keyword do? What is the difference between the (.) operator and a pointer? When do you use it? 
-	     ***Explained in the following section:
+	     Explained in the following section:
 		    In the main() function refer to Regular Class Example: Dot operator VS Pointer
 
 	  3. What does the keyword virtual do? 
-	     ***Explained in the following section: 
+	     Explained in the following section: 
 		    Inheritance and Polymorphism example
 			In the main() function refer to Inheritance, Polymorphism, and the delete keyword
 
