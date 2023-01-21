@@ -67,10 +67,10 @@ int main()
 	cout << gandalf.name << endl; // Print what is stored in name
 	// Pointer is used with 'new' 
 	/* What's happening below???
-	     1. Wizard * p_wiz: created a pointer to a Wizard class. 
+	     1. Wizard * p_wiz: created a pointer to Wizard class. 
 
 	     2. new Wizard(): Creates a Wizard object. 
-		   'new' allocates memory on the heap (Ah, time to put this on the heap) 
+		   'new' allocates memory on the heap (Ah, time to put this somewhere on the heap) 
 		    Remember: anything to do with memory allocation goes on the heap!!! 
 
 	     3. Lets put it together: Wizard* p_wiz = new Wizard(); 
@@ -98,7 +98,7 @@ int main()
 	/*
 	    1. Stack and Heap 
 	       Remember, a pointer is simply a variable that holds an address 
-		   Although, the animal object lives on the heap, the pointer itself lives on the stack and contains the heap address of animal. 
+		   Although, the Animal object lives on the heap, the pointer itself lives on the stack and contains the heap address of Animal. 
 		2. 'delete' keyword 
 		  The delete keyword DOES NOT delete the pointer itself. 
 		  Given the example below: 
@@ -107,7 +107,7 @@ int main()
 	         delete p_animal;
 	      It deletes the object animal that was stored in the heap
 		3. Polymorphism and 'virtual' 
-		   We can see polymophism is at work when speak() is invoked. When we run the code below, it will print out 'no sound' and 'bark'. 
+		   We can see polymophism is at work when speak() is invoked. When we run the code below, it will print out 'no sound', 'bark', and 'meow' 
 		   Despite the Dog class inheriting the speak() function from Animal, it has it's own behavior. 
 		   - The keyword 'virtual' assists with this. 
 		   - Try REMOVING Animal's 'virtual' keyword next to the speak() function in Animal class's definition.
